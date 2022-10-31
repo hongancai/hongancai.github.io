@@ -1,0 +1,20 @@
+
+/*HTML元素*/
+body{
+    background: white;
+    font-size:0.75rem;
+}
+a{
+    color: brown;
+    text-decoration:none;
+}
+
+/* CLASS */
+.req-cls{
+    background: #f56d5a
+}
+/* ID */
+#hate{
+    color: crimson;
+}
+
